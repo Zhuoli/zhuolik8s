@@ -7,4 +7,4 @@ controllerManagerExtraArgs:
   node-monitor-grace-period: "10s"
 apiServerExtraArgs:
   runtime-config: "api/all=true"
-kubernetesVersion: "stable-1.11"
+kubernetesVersion: "stable-1.17"
